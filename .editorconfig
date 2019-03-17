@@ -54,5 +54,6 @@
   "editor.renderWhitespace": "all",
   "workbench.colorTheme": "Cobalt2",
   "editor.detectIndentation": false,
-  "editor.tabSize": 2
+  "editor.tabSize": 2,
+  "terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe"
 }
